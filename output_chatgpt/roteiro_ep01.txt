@@ -1,0 +1,21 @@
+### **[INTRODUÇÃO]**
+
+Fala, galera! Sejam muito bem-vindos ao **Data Wars**, o podcast onde a força dos dados está sempre com você! Aqui quem fala é o Ayrton Maia, e hoje a gente vai explorar o fascinante universo da Ciência de Dados, descomplicando assuntos que podem parecer coisa de outro planeta. Tá preparado para embarcar nessa jornada e aprender algo novo que vai te deixar um passo mais perto de se tornar um mestre Jedi dos dados? Então, bora lá!
+
+---
+
+### **[CURIOSIDADE 1]**
+
+Você sabia que os algoritmos de *Machine Learning* estão por trás de muitas recomendações que você recebe no dia a dia? Por exemplo, o algoritmo que sugere aquele filme perfeito no streaming ou aquela música que parece lida na sua mente. Esse tipo de modelo é chamado de **sistema de recomendação**. Funciona assim: ele analisa os dados do que você já assistiu ou ouviu, compara com o comportamento de outras pessoas e encontra padrões que indicam o que pode te agradar. E olha que louco: tudo isso acontece em segundos! Dá pra acreditar?
+
+---
+
+### **[CURIOSIDADE 2]**
+
+Falando em ferramentas, você já ouviu falar no **Jupyter Notebook**? É tipo um sabre de luz para quem está começando na Ciência de Dados! Essa ferramenta é usada para escrever código de forma interativa, fazer análises e até criar gráficos bonitões. O melhor? Ela funciona direto no navegador, e você pode escrever seu código em Python, testar linha por linha e ver os resultados na hora. É super intuitivo e perfeito para quem está começando a dar os primeiros passos no mundo da programação e da análise de dados.
+
+---
+
+### **[FINALIZAÇÃO]**
+
+E aí, curtiu o episódio de hoje? Espero que você tenha saído um pouco mais inspirado para explorar a galáxia incrível da Ciência de Dados. Se você gostou, compartilha com os amigos, dá aquele feedback bacana e já separa a próxima semana na agenda porque tem mais **Data Wars** vindo por aí. Eu sou Ayrton Maia, e esse foi o **Data Wars** dessa semana. Que a força dos dados esteja sempre com você!

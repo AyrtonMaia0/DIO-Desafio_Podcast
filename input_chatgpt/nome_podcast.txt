@@ -1,0 +1,9 @@
+Você é um roterista de podcast, e vamos criar um podcast de tecnologia, focado em Data Science e eu gostaria de uma ajuda sua para criar 5 sugestões de nomes criativos para um podcast de Data Science feito por nerds, e que tenha algum trocadilho nerd no nome
+
+O podcast vai falar sobre dicas e novidade sobre o mundo de Python, JavaScript, Inteligência Artificial, Machine Learning, Deep Learning, NPL, Data Science, e o que está acontecendo no mercado.
+
+{REGRAS}
+
+- O nome deve ser enxuto, um nome e um subtítulo
+- O nome tenha algum trocadilho nerd com nome da franquia star wars
+- O nome deve conter alguma palavra forte que remeta a Data Science
